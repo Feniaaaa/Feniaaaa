@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fernando Cruces</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=feniaaaa" alt="feniaaaa" /></a> </p>
+- 🌱 I’m currently learning **Spring Security**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Feniaaaa](https://github.com/Feniaaaa)
 
