@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Fernando Cruces</h1>
-- 🌱 I’m currently learning **Spring Security**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Feniaaaa](https://github.com/Feniaaaa)
-
 - 📫 How to reach me **Fernandonicolascrucessanhueza@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
